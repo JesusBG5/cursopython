@@ -1,5 +1,5 @@
 #Tkinter Calculadora
-from Tkinter import *
+from tkinter import *
 
 #Funciones de la calculadora
 
